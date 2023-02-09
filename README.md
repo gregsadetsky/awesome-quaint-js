@@ -10,7 +10,7 @@ this is a list of librairies that you could use while making web sites, but shou
 
 bonus points: if a library can be used multiple / too many times on a web site to the point where it endangers the browsing experience / makes it exciting (I want to feel something dammit)
 
-# list of librairies
+---
 
 ## quaint styling
 
@@ -22,3 +22,7 @@ bonus points: if a library can be used multiple / too many times on a web site t
 - [tsParticles](https://github.com/matteobruni/tsparticles) - [demo](https://particles.js.org/samples/index.html#emitters)
 - [confetti-js](https://github.com/Agezao/confetti-js) - [demo](https://agezao.github.io/confetti-js/)
 - [js-confetti](https://github.com/loonywizard/js-confetti) - [demo](https://loonywizard.github.io/js-confetti/)
+
+## quaint musical interludes
+
+- [elevator.js](https://tholman.com/elevator.js/) - [demo](https://tholman.com/elevator.js/)
