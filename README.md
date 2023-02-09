@@ -15,7 +15,7 @@ bonus points: if a library can be used multiple / too many times on a web site t
 ## quaint styling
 
 - [wired-elements](https://github.com/rough-stuff/wired-elements) - [demo](https://wiredjs.com/showcase.html)
-- [NES.css](https://github.com/nostalgic-css/NES.css) - [demo](https://nostalgic-css.github.io/NES.css/)
+- ["fun css frameworks"](https://github.com/sw-yx/spark-joy#fun-css-frameworks) -- including [html_wysiwyg](https://secretgeek.github.io/html_wysiwyg/html.html), [PSone](https://micah5.github.io/PSone.css/), [Geo for Bootstrap](https://code.divshot.com/geo-bootstrap/), etc.
 
 ## quaint floaty bits
 
